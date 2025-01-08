@@ -11,7 +11,8 @@
     <a href="https://velog.io/@changwoo7463" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
     <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>changwoo7463@gmail.com<br>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
+    changwoo7463@gmail.com<br>
 </p>
 
 <br>
