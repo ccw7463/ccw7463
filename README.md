@@ -12,7 +12,7 @@
     <br>
 <br><br>
     <Strong>✉️ Email ✉️</Strong>
-    changwoo7463@gmail.com<br>
+    <br>changwoo7463@gmail.com<br>
 </p>
 
 <br>
