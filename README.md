@@ -11,7 +11,7 @@
     <a href="https://velog.io/@changwoo7463" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
     <br>
 <br><br>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
+    <Strong>✉️ Email ✉️</Strong>
     changwoo7463@gmail.com<br>
 </p>
 
@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
     💡 Usually and Studying
 </p>
 
