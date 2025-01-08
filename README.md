@@ -19,10 +19,10 @@
 
 <p align="center">
 Hello there! 👐<br>
-My name is Changwoo Choi, and I am an AI Engineer.<br>
-  <li><strong>Undergraduate:</strong> Electrical Engineering, Pusan National University</li>
-  <li><strong>Master's:</strong> Computer Science, Pusan National University (Advisor: Prof. Ho Won Kim)</li>
-  <li><strong>Ph.D.:</strong> Computer Science (Currently enrolled), Pusan National University</li>
+<Strong>My name is Changwoo Choi, and I am an AI Engineer.<Strong/><br><br>
+  <strong>Undergraduate:</strong> Electrical Engineering, Pusan National University
+  <strong>Master's:</strong> Computer Science, Pusan National University (Advisor: Prof. Ho Won Kim)
+  <strong>Ph.D.:</strong> Computer Science (Currently enrolled), Pusan National University
 </p>
 
 
