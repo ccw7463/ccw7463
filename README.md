@@ -19,9 +19,11 @@
 <p align="center">
 Hello there! 👐<br>
 My name is Changwoo Choi, and I am an AI Engineer.<br>
-- **Undergraduate:** Electrical Engineering, Pusan National University<br>
-- **Master's:** Computer Science, Pusan National University (Advisor: Prof. Ho Won Kim)<br>
-- **Ph.D.:** Computer Science (Currently enrolled), Pusan National University<br>
+<ul>
+  <li><strong>Undergraduate:</strong> Electrical Engineering, Pusan National University</li>
+  <li><strong>Master's:</strong> Computer Science, Pusan National University (Advisor: Prof. Ho Won Kim)</li>
+  <li><strong>Ph.D.:</strong> Computer Science (Currently enrolled), Pusan National University</li>
+</ul>
 I am a passionate engineer dedicated to constant learning and growth in the field of artificial intelligence!<br>
 </p>
 
