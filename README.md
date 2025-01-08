@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
+    <Strong>☁️Social Media and Blog List☁️</Strong><br><br>
     <a href="https://www.instagram.com/c_woo000/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
     <a href="https://velog.io/@changwoo7463" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
     <br>
@@ -19,11 +19,9 @@
 <p align="center">
 Hello there! 👐<br>
 My name is Changwoo Choi, and I am an AI Engineer.<br>
-<ul>
   <li><strong>Undergraduate:</strong> Electrical Engineering, Pusan National University</li>
   <li><strong>Master's:</strong> Computer Science, Pusan National University (Advisor: Prof. Ho Won Kim)</li>
   <li><strong>Ph.D.:</strong> Computer Science (Currently enrolled), Pusan National University</li>
-</ul>
 </p>
 
 
